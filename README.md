@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am Yuan Andrade Calixto, currently pursuing a degree in Software Engineering at the Federal University of Goiás (UFG). With a deep passion for technology, I am dedicated to both Front-end and Back-end Web Development, utilizing JavaScript and Java technologies respectively. My goal is to continuously learn and evolve in the field of programming, striving to enhance my skills and contribute meaningfully to the tech community. In my free time, I enjoy playing games, watching movies, and reading books.
+I am currently pursuing a degree in Software Engineering at the Federal University of Goiás (UFG). With a deep passion for technology, I am dedicated to both Front-end and Back-end Web Development, utilizing JavaScript and Java technologies respectively. My goal is to continuously learn and evolve in the field of programming, striving to enhance my skills and contribute meaningfully to the tech community. In my free time, I enjoy playing games, watching movies, and reading books.
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuan-calixto)
